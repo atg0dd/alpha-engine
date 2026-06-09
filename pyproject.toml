@@ -9,3 +9,9 @@ dependencies = [
     "pandas>=3.0.3",
     "websockets>=16.0",
 ]
+
+[dependency-groups]
+dev = [
+    "mkdocs>=1.6.1",
+    "mkdocs-material>=9.7.6",
+]
